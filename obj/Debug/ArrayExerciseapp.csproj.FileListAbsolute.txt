@@ -1,0 +1,8 @@
+C:\.NET Training\Day 5\ArrayExerciseapp\ArrayExerciseapp\obj\Debug\ArrayExerciseapp.csproj.AssemblyReference.cache
+C:\.NET Training\Day 5\ArrayExerciseapp\ArrayExerciseapp\obj\Debug\ArrayExerciseapp.csproj.SuggestedBindingRedirects.cache
+C:\.NET Training\Day 5\ArrayExerciseapp\ArrayExerciseapp\obj\Debug\ArrayExerciseapp.csproj.CoreCompileInputs.cache
+C:\.NET Training\Day 5\ArrayExerciseapp\ArrayExerciseapp\bin\Debug\ArrayExerciseapp.exe.config
+C:\.NET Training\Day 5\ArrayExerciseapp\ArrayExerciseapp\bin\Debug\ArrayExerciseapp.exe
+C:\.NET Training\Day 5\ArrayExerciseapp\ArrayExerciseapp\bin\Debug\ArrayExerciseapp.pdb
+C:\.NET Training\Day 5\ArrayExerciseapp\ArrayExerciseapp\obj\Debug\ArrayExerciseapp.exe
+C:\.NET Training\Day 5\ArrayExerciseapp\ArrayExerciseapp\obj\Debug\ArrayExerciseapp.pdb
